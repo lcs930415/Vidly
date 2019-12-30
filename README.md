@@ -1,0 +1,2 @@
+# Vidly
+.Net framework project
